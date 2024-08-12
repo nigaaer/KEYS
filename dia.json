@@ -1,0 +1,2925 @@
+{
+    "1": {
+        "channelName": "Channel One",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch001/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/001.png",
+        "id": 1,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "340a7f9d40dd596ea31e21b76080173e",
+        "key": "105120cb9f732650d2ee8a5ffc98a617",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@btwkunfl0krwvyn0kaha5nvi1kyuvpqswy0a3dda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:08:02.286564",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQNAp/nUDdWW6jHiG3YIAXPhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "2": {
+        "channelName": "Rupavahini",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch002/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png",
+        "id": 2,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "c51002a79e3150f49db741b208f7f1cd",
+        "key": "112925529f246df09a678ef6626e13d7",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@elvjf52fvgv2deq3cgdkpktk4bzknhe4t4dpfmba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-08T17:33:13.330525",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQxRACp54xUPSdt0GyCPfxzRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "3": {
+        "channelName": "Nethra TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch003/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/nethra.jpg",
+        "id": 3,
+        "dashWidewineLicenseUrl": "unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "1e0a6192e4515920a6adbbb09261c4e9",
+        "key": "3da923674e653810f8188125aa9b6886",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@fyqb1mjrdgmtvyva4a2ijbdwzkbgmv1ssngh15aa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T00:03:27.379135",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQHgphkuRRWSCmrbuwkmHE6RoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "4": {
+        "channelName": "ITN",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch004/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png",
+        "id": 4,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "53da2050668150d0a3355a1d191bfcfe",
+        "key": "f3db10fe940f3c7478dd07fe6a738160",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@dngl1ywqzmndlmue3c3fdmwwrvitzx1puchb1lda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T11:36:07.965209",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQU9ogUGaBUNCjNVodGRv8/hoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "5": {
+        "channelName": "Vasantham TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch005/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/005.png",
+        "id": 5,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "881678af9b9c542d91965c676cb35640",
+        "key": "611d6745810730e3aede697f7866a319",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@clau4gekbq01q4y3x5sgpai3nqycaykyvam4xica/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T12:34:14.342218",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQiBZ4r5ucVC2RllxnbLNWQBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "6": {
+        "channelName": "TV Derana",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch006/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/006.png",
+        "id": 6,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "2edd1e2bc23c59668848ab8462bca8c1",
+        "key": "094e9c5204203ab5be5c728f1ec0f8fb",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@wiz00mvbflltfd5wquroisvvzsfkw11sbdvqtcda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-04T23:23:52.710197",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQLt0eK8I8WWaISKuEYryowRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "7": {
+        "channelName": "Swarnavahini",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch007/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png",
+        "id": 7,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "6cd1a07908c73d65d949cea91bf287f9",
+        "key": "5895f1864e173964ebb77f3bb9c49575"
+    },
+    "8": {
+        "channelName": "Sirasa Tv",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch008/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png",
+        "id": 8,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "0c4dfd9a82658bd152d8e95f2cfde33f",
+        "key": "90baab6ab91d869e124a31f4b4174bc6",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@putyptrfoc5ngjfwplr2rhr5g1d3etgvytqvg3da/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-05T19:36:29.182906"
+    },
+    "9": {
+        "channelName": "Shakthi TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch009/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/009.png",
+        "id": 9,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "479908d53a995fa0833ae0182be059b9",
+        "key": "790138a16b422e60088d44618bf49cb2",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@vfpg4mxy2zytnwj3dl2js4m2zonzt20ccqza45ca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-06T18:33:39.634143",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQR5kI1TqZX6CDOuAYK+BZuRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "10": {
+        "channelName": "TV1",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch010/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/010.png",
+        "id": 10,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "992a7e66e068d554b10f2f10b39dcacb",
+        "key": "e36984f03c232c8775fa96c31eb678a3"
+    },
+    "11": {
+        "channelName": "Hiru TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch011/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png",
+        "id": 11,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "26ce4a2d964b5aca81a713834108fbd8",
+        "key": "9161d08fbfacd6cd4fb754767f7b1166",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@ekqys4e0bcl0tv5birgknarf3brce1j4t5g4snba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-06T11:38:01.032228",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQJs5KLZZLWsqBpxODQQj72BoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "12": {
+        "channelName": "TNL",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch012/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/012.png",
+        "id": 12,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "cc8df114d23f5f82860ffbff4547fcc3",
+        "key": "f595e7228e5db9dcd4c582b067a9ddb0",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@xcahscjya2ikuoilrnam2aoef0vay2jrajmn1mda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T05:22:42.250852",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQzI3xFNI/X4KGD/v/RUf8wxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "13": {
+        "channelName": "ART Television",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch013/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/013.png",
+        "id": 13,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "42775f6249a253a5a05657c787362804",
+        "key": "da55ce68eea9766055818f67593eca5f",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@o5ykbxbzdlf2wqtj1vk4hrvco11hwhfuzqzabeaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T05:52:33.450857",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQQndfYkmiU6WgVlfHhzYoBBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "14": {
+        "channelName": "AdaDerana 24X7",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch014/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png",
+        "id": 14,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "ed610a537dad45d5258e4121453ec3f1",
+        "key": "14aa0ab231f31647e015368c42f2f7a9"
+    },
+    "15": {
+        "channelName": "Siyatha TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch015/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png",
+        "id": 15,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "da095c049fe7f9b7799ed2dd332f4de9",
+        "key": "acabb77706afd213421c054f65b722db"
+    },
+    "16": {
+        "channelName": "Haritha Tv",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch016/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/016.png",
+        "id": 16,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "5e69cc63e1fe501faad7dcadb57b985a",
+        "key": "8481447306cffe2476aaac894ac96bed",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@psusq4jaskc0hy31h0w23jfb31tevjjwyvx5zqda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-06T08:19:29.501275",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQXmnMY+H+UB+q19yttXuYWhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "17": {
+        "channelName": "TV Didula",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch017/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/017.png",
+        "id": 17,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "2e6bcee1bb45fb790773d240b2649c7b",
+        "key": "65a62688b4bd4266e9aa729f920f05e1"
+    },
+    "18": {
+        "channelName": "Ridee TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch018/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/018.png",
+        "id": 18,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": false,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "acd4a2f1862b59b6abf50df7bd1f3cb5",
+        "key": "94c47a09c8668617b1e8a4c93dc9880a",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@i2i10xq2dnl5czq4cqbsbrwvpbch01d25j430eba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T00:04:04.486382",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQrNSi8YYrWbar9Q33vR88tRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "19": {
+        "channelName": "Citi Hitz",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch019/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/019.png",
+        "id": 19,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "79224a851b485418b7153591757ae1bb",
+        "key": "38cac534b8b4085b0a8fad620dea71be",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@ma2e5rteqt2ho3bmyut1zyj4dhdahusf1vkc5cca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T17:26:53.238307",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQeSJKhRtIVBi3FTWRdXrhuxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "20": {
+        "channelName": "Supreme TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch020/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/118.png",
+        "id": 20,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "7eb320cf52674feb30d9cd0178072a6a",
+        "key": "f48cb148397c2f31c5f34ae1b3e144c8"
+    },
+    "21": {
+        "channelName": "Rangiri Sri Lanka",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch021/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/021.png",
+        "id": 21,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "235f5d0a292c6b8b66aee0941ec6966b",
+        "key": "e0b87aafa3e55c15ce84f180c7a339d9"
+    },
+    "22": {
+        "channelName": "Hi TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch022/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/121.png",
+        "id": 22,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "bf309f0ad95f5775660d0cf938685764",
+        "key": "e1eca0facbdbf97a2ed0cc9eaf6ca566"
+    },
+    "23": {
+        "channelName": "Pragna TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch023/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/029.png",
+        "id": 23,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Religious"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "b244ab0ddc38de333c1543362feda742",
+        "key": "3509585331575d80ef10024638fe2de3",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@0btahbucmc2eayuydenw0gbocyoyevuznoskhsba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-09T13:53:37.440336"
+    },
+    "24": {
+        "channelName": "Damsatara",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch024/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/028.png",
+        "id": 24,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Religious"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "1d23419417685fa2b04edcce6a6452e0",
+        "key": "a05daed57bbfbc7bc9831f4687352ba1",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@wkzlbi2ofpfabvugrwuomsxcqqvk4h31b5pnb1ba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T20:58:02.094967",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQHSNBlBdoX6KwTtzOamRS4BoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "25": {
+        "channelName": "Jaya TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch025/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/4/Jayatv.png",
+        "id": 25,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Local"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "167829adcd4250a3ace78d59114d0162",
+        "key": "1ae06a86a3e0b8f798fb1f47ce37a0e8",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@kdbw0kfieyklfoiyw3ew5cmvv00iqylt3ma20zaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T12:34:03.913951",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQFngprc1CUKOs541ZEU0BYhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "26": {
+        "channelName": "Buddhist TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch026/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/026.png",
+        "id": 26,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Religious"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "bc0b3c0aa060a182510aa2e92c2e85cc",
+        "key": "4c241694a29ab5ddcce7548ad5943d21",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@5vhcxosr4i20zpr3v3x3speo32p3rviki4li4aaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T20:58:10.917725"
+    },
+    "27": {
+        "channelName": "Shradda TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch027/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/027.png",
+        "id": 27,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Religious"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "1add8b47dc11c0da47d16de5772f8712",
+        "key": "aa46dcc389dbcd6a881e0c61806f47be"
+    },
+    "28": {
+        "channelName": "God TV / Swarga TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch028/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/030.png",
+        "id": 28,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Religious"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "203f29aeb307dcf801b38746982d4344",
+        "key": "5af5d0716ee105bd78969d7929c66996"
+    },
+    "29": {
+        "channelName": "EWTN / Verbum",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch029/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/031.png",
+        "id": 29,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Religious"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "a8b598632e175e20be4430d1a67c1a5a",
+        "key": "a5f9a8e5920b547dccb33e71f4d93517"
+    },
+    "30": {
+        "channelName": "Al Jazeera",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch030/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/032.png",
+        "id": 30,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "News"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "3fc8142064b05025a5d0e5bf4e122e24",
+        "key": "3a3f5da85f6df42462ea76e005911ad8",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@l3wu0zah1skhtgm1nc3udnjvtzkxfyt52w04txca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:54:01.548041",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQP8gUIGSwUCWl0OW/ThIuJBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "31": {
+        "channelName": "ABC Australia",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch031/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/033.png",
+        "id": 31,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "News"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "e579f063ca2f2108c4444383feeb7740",
+        "key": "3eea9904a53c005d74c2ece058dfe82b",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@fqvtpgwhwo4ziswgmksjzlh5mmbm3rois1zzgiaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T10:40:35.569268"
+    },
+    "32": {
+        "channelName": "BBC World",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch032/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/034.png",
+        "id": 32,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "News"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "f3aeda3b98155384b3a960fb47751153",
+        "key": "3fc90d15515b4b0df7f5a146d5e80f2d",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@5tqa3q3gccudgvhigdj24bb0bt5eef0vi2rk3daa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T10:40:43.721024",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ867aO5gVU4SzqWD7R3URUxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "34": {
+        "channelName": "CNN",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch034/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/036.png",
+        "id": 34,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "News"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "85f42c173fc45c2cb989458f5c9de507",
+        "key": "090c48c9ab1537ef9f8d69f22f50b27c",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@jmxi2k323crlfowfvhyqboryvkc1fpkt4h1cveda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-09T05:41:59.835553",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQhfQsFz/EXCy5iUWPXJ3lBxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "35": {
+        "channelName": "NDTV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch035/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/037.png",
+        "id": 35,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "News"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "9c6d4936ca6a5a539a9480f9cdaff2b8",
+        "key": "7b3f42dd58c9feb735a7b16239635312",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@wasfjpjmiwe3f33aqfhoyels4sfqmehsbvedj2aa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T18:01:04.975817",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQnG1JNspqWlOalID5za/yuBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "36": {
+        "channelName": "France 24",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch036/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/038.png",
+        "id": 36,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "News"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "8e3e0498b65257b5b06d581a804aebdc",
+        "key": "b09a238d20393707f7cf9eb114c99967",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@h0kpcn4yl3juzazlk0lnnv4e0urw04vkqvlfc4da/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-09T06:48:06.200036",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQjj4EmLZSV7WwbVgagErr3BoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "37": {
+        "channelName": "Euro News",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch037/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/067.png",
+        "id": 37,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "61850e7df5d359cabefa26602afe5a86",
+        "key": "a27ca81f9fb7426583e2829d15685bb0",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@sxjjm1cggfrnl21ek4ghwtsywv2nkpgpfqkefvaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T15:46:52.493745",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQYYUOffXTWcq++iZgKv5ahhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "38": {
+        "channelName": "Bloomberg",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch038/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/040.png",
+        "id": 38,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Business"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "eddc6c38b2c455fd9c718232bccbed8b",
+        "key": "ef0c7e11a73b19f47a1b70fb0168628a",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@bzyaddpmddmm2jgqyezblrbggoiggvfbwsukknba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-05T15:19:40.787067",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ7dxsOLLEVf2ccYIyvMvtixoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "39": {
+        "channelName": "CNBC",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch039/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/041.png",
+        "id": 39,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Business"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "5e92613c4e805cb5b05fb53ba249aa49",
+        "key": "e2f434fb28117e1f99ffe1320724f9c0",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@c0whnqkb14ubkvch22zhnnp0avqw3e4nvpabndda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:08:25.392499",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQXpJhPE6AXLWwX7U7okmqSRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "40": {
+        "channelName": "B4U Music",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch040/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/043.png",
+        "id": 40,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Music"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "8d4b7b439d7f57ba9de5152c25869739",
+        "key": "90d65c471ff8a1cfdce58538b34ee0f2",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@lw1h3izzo5udvjggujfuvxp0rss34e0t2z0n31aa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T06:55:34.079516",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQjUt7Q51/V7qd5RUsJYaXORoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "41": {
+        "channelName": "VH1",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch041/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/044.png",
+        "id": 41,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Music"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "92139e78637a502a9bdf927e327f4980",
+        "key": "12e44288eaad966d1277b238cbd2eb94",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@agznourwexzrgqjifrkcvs12ilqjo44uxjyhohaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T20:56:45.795804",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQkhOeeGN6UCqb35J+Mn9JgBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "42": {
+        "channelName": "Channel C",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch042/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/045.png",
+        "id": 42,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Music"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "257641a40e3d51d1819ed47f6575ca64",
+        "key": "d0fa6c29a4584320999b35b228634447",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@b5swsil1l0kc3cnz322bhfnfroyxuyzdwyr11gba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-05T15:34:33.176509",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQJXZBpA49UdGBntR/ZXXKZBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "43": {
+        "channelName": "Sun Music",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch043/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/046.png",
+        "id": 43,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Music"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "73c0beabd2965387a18cc1993be51638",
+        "key": "fc7c488d6abf90e0a0f02101c8ce3ade",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@ck0pzihoj5fd35womwfhnu5srwqs4g1dvbwfqgba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:21:13.676436",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQc8C+q9KWU4ehjMGZO+UWOBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "44": {
+        "channelName": "Zing TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch044/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/117.png",
+        "id": 44,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Music"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "db42b1c773885a79a904d86e67ee7ffc",
+        "key": "8e30e15579ee3489550a9af287297d4a",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@movp45l4v4z55n1vwsv1fk525ptl34cg1buf4mca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T00:06:24.575847",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ20Kxx3OIWnmpBNhuZ+5//BoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "45": {
+        "channelName": "Da Vinci",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch045/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/048.png",
+        "id": 45,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Kids"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "af7018e07c83583da00f15a606fc13e3",
+        "key": "a9ed1f470fd0e07e586045a1399723c7",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@spfjfslwvevi4rw0unihgkskex2ljhmffigem2ba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T11:26:52.056685",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQr3AY4HyDWD2gDxWmBvwT4xoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "46": {
+        "channelName": "Cbeebies",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch046/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/049.png",
+        "id": 46,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Kids"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "51c2b62be5585a98bbc5eddb4e0299e9",
+        "key": "0e33d27ab359f246cc858d0026f328d1",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@mqm52x3ps3t5webv5vq0zz4zplde1kcu15nv2eaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T17:33:28.870621",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQUcK2K+VYWpi7xe3bTgKZ6RoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "47": {
+        "channelName": "Cartoon Network",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch047/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/cartoon_network.png",
+        "id": 47,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Kids"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "8796305775be554f933c6ad2ff3c9eb8",
+        "key": "341e46f7d4b9bfec0050f423a1ff7263",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@omjt2xk5fns50h1axb05bsgzpvdl0jcmzlk4vzaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:19:17.697431",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQh5YwV3W+VU+TPGrS/zyeuBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "48": {
+        "channelName": "A Plus TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch048/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/052.png",
+        "id": 48,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Kids"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "dfa5114922e7580fae2aefe8a1303098",
+        "key": "dd51286cf5481990f87814de5b956980",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@udp014bc2jp1hptlkfxk44ux3l3yttlwdmoq1naa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-05T08:01:07.565113",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ36URSSLnWA+uKu/ooTAwmBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "49": {
+        "channelName": "Nickelodeon",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch049/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/053.png",
+        "id": 49,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Kids"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "f0340c35e78ba096c04b353d4a0b6108",
+        "key": "99d326c1e578bc59a2ec166ea1516d79"
+    },
+    "50": {
+        "channelName": "Baby TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch050/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/054.png",
+        "id": 50,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Kids"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "8e36e1acb04455f080084f6d981bd335",
+        "key": "2eda25c70908904ba52c9d4ebec49821",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@twfsmqpswisbohaiy3qfuleza5unrj4fedtumdca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-05T18:58:37.691163",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQjjbhrLBEVfCACE9tmBvTNRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "51": {
+        "channelName": "Disney Jr",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch051/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/055.png",
+        "id": 51,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Kids"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "3e0e7fe9d30f537d914994a4a07f0cbf",
+        "key": "3fc09e7a10115fa328a30b73033f12cb",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@ermmjnlcsrfv3ny3vzgl1zys0gjedgxcte0kj4ca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T15:42:25.313076",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQPg5/6dMPU32RSZSkoH8MvxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "52": {
+        "channelName": "Nick JR",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch052/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/056.png",
+        "id": 52,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Kids"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "2ff80e3888165b61b23b83f1bf09b90e",
+        "key": "0caec873bd24a4ba2f7e7119835e4f2a",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@0cw4q30oy0dw1fruifhx2m3b1vwqvkronfvtztaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-06T14:36:47.973516",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQL/gOOIgWW2GyO4Pxvwm5DhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "53": {
+        "channelName": "BBC Earth",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch053/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/057.png",
+        "id": 53,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "49422beae4805ab98276cf4394b39fc6",
+        "key": "c459af659fb1e08604fee47a1fb3942e",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@gcy5kly0a5lnrfci1tuo3q5vwqra40h1rjuvdfca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T06:34:32.974016",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQSUIr6uSAWrmCds9DlLOfxhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "54": {
+        "channelName": "NGC Wild",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch054/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/058.png",
+        "id": 54,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "87576ef6c65550399ca91a9afca94b76",
+        "key": "3dc267a785e0adf28fd0c6b854d8bc13",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@oc1bakjzmhaiv5s4x5e43wdaustyonntzfymjeda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:11:03.594628",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQh1du9sZVUDmcqRqa/KlLdhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "55": {
+        "channelName": "Animal Planet",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch055/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/059.png",
+        "id": 55,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "6b90bf5695925e4fa42babd7e8235058",
+        "key": "2b272ef683608ff055010f95d79759a5",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@1hdipaoyma3biplea1ovwgq4au4zax4jmiccptda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-10T11:27:34.290036",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQa5C/VpWSXk+kK6vX6CNQWBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "56": {
+        "channelName": "Discovery",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch056/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/060.png",
+        "id": 56,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "746b459e7f465a9491d29d95a41c3dca",
+        "key": "bdad6d8e140f6538dad17ed3d039a1f3",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@ojzofwjpf1vygac53dx4ls3kmtlkwgmuz2piffaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-08T06:16:26.730279",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQdGtFnn9GWpSR0p2VpBw9yhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "57": {
+        "channelName": "Discovery Science",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch057/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/061.png",
+        "id": 57,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "799df9580a4d5e35b4c6625413b677c1",
+        "key": "d9cf8f6792f0f560a32d321c8107f5cb",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@batdprthmo2fomr2ypibzgh4cpay2vwfwhqog5ba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T22:12:40.981822",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQeZ35WApNXjW0xmJUE7Z3wRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "58": {
+        "channelName": "TLC",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch058/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/063.png",
+        "id": 58,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "963a674de93656abb736539494ba6156",
+        "key": "26f4992311f03c441ef242b08b7d775d",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@almdzyfhrnedxp43kuwcpygsrlyc1f1xxenjzlaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T06:41:41.674552",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQljpnTek2Vqu3NlOUlLphVhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "59": {
+        "channelName": "Nat Geo",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch059/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/064.png",
+        "id": 59,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "8bceea94a34656a2bb1e590bf541c597",
+        "key": "7db9f6efb99379d4c6d284a28f40685d",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@zcgmx0imyq3ktm5ryq2q2myovjwqbwi5oxqkxjba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:41:57.479082",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQi87qlKNGVqK7HlkL9UHFlxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "60": {
+        "channelName": "History TV 18",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch060/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/065.png",
+        "id": 60,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "74c0af0fea8655f2b1e848f5dba5c3f0",
+        "key": "42b477ed7ed9d13692adecf32d90d97b",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@w1f5x5xlx25451aawdppol4p5x3ozsagbqjv4rba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T22:13:09.387928",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQdMCvD+qGVfKx6Ej126XD8BoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "61": {
+        "channelName": "Travel XP",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch061/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/066.png",
+        "id": 61,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "ec45f3e499f6a427004d11799aa5e28a",
+        "key": "918e7a95665e23a987c07b7448771c6a"
+    },
+    "62": {
+        "channelName": "HGTV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch062/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/099.png",
+        "id": 62,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "16786a1920395af9825a8278fe0ebe65",
+        "key": "e3456ca7583867e05ff84bac87e5e7f2",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@injlqulefnbsouoih0wtdswajpkl0pze5cibqhca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-08T16:02:12.516568",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQFnhqGSA5WvmCWoJ4/g6+ZRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "63": {
+        "channelName": "Food Network",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch063/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/096.png",
+        "id": 63,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "3dc7a7650a485ecbb2790798394109e6",
+        "key": "920a360efb5ae46279d14536275336a3",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@mc0tef5oipsumgdy2kd13uhjkotq4jua1n1zewca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T17:04:16.416547",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQPcenZQpIXsuyeQeYOUEJ5hoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "64": {
+        "channelName": "Sony sports 1",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch064/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_sports_1.jpeg",
+        "id": 64,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "01f85668e2855badbc3bb52d42733b18",
+        "key": "ea744b1f36d88c779e8e8bd1cf57f639",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@4gwhznjvy4exvwfa2rh4umps1sxr3etsjtabz4aa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T10:33:59.791849",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQAfhWaOKFW628O7UtQnM7GBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "65": {
+        "channelName": "Ten Cricket",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch065/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/069.png",
+        "id": 65,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "76cd295cfe8058cf82f92ece18d3e53a",
+        "key": "dbc0e11f2abea61214609322090924a1",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQds0pXP6AWM+C+S7OGNPlOhoOdW5pcWNhc3RkaWFsb2c=",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@mqbohlyhgy3mb1sxpou0zd2owidmqwe115aehyba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:02:56.137100"
+    },
+    "66": {
+        "channelName": "Sony sports 2",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch066/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_sports_2.jpeg",
+        "id": 66,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "0c37aea4b58e5210bde620166d7a6a81",
+        "key": "2df2c3f366b51937091701b5e590b907",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@tgajzuntaeftg30y1wleuassj1ubih1uetwpzhaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:07:45.072978",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQDDeupLWOUhC95iAWbXpqgRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "67": {
+        "channelName": "Eurosport",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch067/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/071.png",
+        "id": 67,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "7837a6af4dde533693baaec19666f732",
+        "key": "f13da893024ab2e7fc0b6c5acc9388a8",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@nvghuiva02qcfphylf0ytnoirklvzmyt0sfk3gda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-10T03:40:16.510771",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQeDemr03eUzaTuq7Blmb3MhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "69": {
+        "channelName": "Star Sports 2",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch069/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/074.png",
+        "id": 69,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "2c75acb0927b5204902fb93539550197",
+        "key": "55bcfd065307c9b2303a4906206d4181",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@2iv5fs1ev4xi4121afi1ik5lehhk3cmfldzvm2ba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T07:20:52.365268",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQLHWssJJ7UgSQL7k1OVUBlxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "70": {
+        "channelName": "HBO Signature",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch070/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/081.png",
+        "id": 70,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "9b525042dd4f5887b178593eb943d166",
+        "key": "1a3fdaea070cae52fe035e7a97c800ea",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@iumw3vwyszwx0miwna1trzm1lfcftasm5b0q3gda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:35:27.394821",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQm1JQQt1PWIexeFk+uUPRZhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "71": {
+        "channelName": "HBO Family",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch071/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/083.png",
+        "id": 71,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "0a06a1cbd55e5d92a2889db3835061c4",
+        "key": "67bfa01f1e51968fce6ef5673cf4dc88",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@2mzyafcbfdduisfu0ot1asrbkmhlglvildysawda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:35:44.845935",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQCgahy9VeXZKiiJ2zg1BhxBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "72": {
+        "channelName": "&flix",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch072/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/085.png",
+        "id": 72,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "31ef55724fee51eeb5b05260ec59c30a",
+        "key": "0cc60add20ceb017841169fe86e8e69e",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@blnnwvvcvvzwwiewrflap00mldykl4quwemhwgaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:36:01.098493",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQMe9Vck/uUe61sFJg7FnDChoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "73": {
+        "channelName": "HITS MOVIES",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch073/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/086.png",
+        "id": 73,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "7ecb8f547464578ba73d62d50a6338b1",
+        "key": "dc3b798cfb9e293f57a23aad2564e6dd",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@bali0gcembj1yacytusbzwquneayc5liwpkc0vda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T17:42:14.753159",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQfsuPVHRkV4unPWLVCmM4sRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "74": {
+        "channelName": "Sony PIX",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch074/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_pix.jpeg",
+        "id": 74,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "cdd170d3e63158c6b7c8b34f368c09ff",
+        "key": "487bc7f8722447850e84e63507534a08",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@fobswq24fi0cc2xck0zifcenbjrlqzy3s1xuwdba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T12:39:50.400738",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQzdFw0+YxWMa3yLNPNowJ/xoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "75": {
+        "channelName": "HITS",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch075/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/089.png",
+        "id": 75,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "76baeb668791514c90ac55af0821e20f",
+        "key": "0b255f55f9431be8ddcab8b249c687f2",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@wvnylv04wbpvkuc0gb1ps1qxkvnndtxmbsovc1aa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T14:50:44.009225",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQdrrrZoeRUUyQrFWvCCHiDxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "76": {
+        "channelName": "Zee Cafe",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch076/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/090.png",
+        "id": 76,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "1b0e374074d5593ca67ccd50185e6464",
+        "key": "c0f751f640627c48e74f9940d80a737d",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@lb5grkcn21ekzc4qccjv14ncvukyxejl2o4mrzda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-08T11:39:04.049136",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQGw43QHTVWTymfM1QGF5kZBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "77": {
+        "channelName": "WarnerTV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch077/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/092.png",
+        "id": 77,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "8ef28fcdf0ce514294aada1ddb25933e",
+        "key": "31313940eb62f3b8504c853247f3b0f3",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@ajjhgernf3yqeohw3daclsomikik022qxgingxaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:53:38.397225",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQjvKPzfDOUUKUqtod2yWTPhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "78": {
+        "channelName": "AXN",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch078/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/093.png",
+        "id": 78,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "ce263e7d57b454a38c6bcc77e9727225",
+        "key": "4d13adb7193f42450735136de451741d",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@ayuivt3htcvogjasj0lcjjrkhdagfhavx5xf23da/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:53:17.469842",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQziY+fVe0VKOMa8x36XJyJRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "79": {
+        "channelName": "Colors Infinity",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch079/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/094.png",
+        "id": 79,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "e387208e004c55e68178d8548b89834f",
+        "key": "d6631c1b0d5543c81e22cba96aea770f",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@zwkg05ztkzi5x5caxksquvmu5lwvs2dworjltrda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-09T13:54:18.680281",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ44cgjgBMVeaBeNhUi4mDTxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "80": {
+        "channelName": "Fashion TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch080/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/ftv-logo.jpg",
+        "id": 80,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "3becb1f64d555d61a0f3a99d842a60ed",
+        "key": "0b4ef23e30812bbf6c25bfc04b713204",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@dshi34lh4av1pxm4fzpf3pq03xq2bhkgu3gc3nca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T21:47:18.589293",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQO+yx9k1VXWGg86mdhCpg7RoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "81": {
+        "channelName": "Fox Life",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch081/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/097.png",
+        "id": 81,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "3e11284b9f8c57eba1c365ddcd479ded",
+        "key": "a75143f5974c15f6833261299c48f9a4",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@kdwgy2cfy0at1g5etb5x5mnqzv0qvm1o3evlrsaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T10:34:42.277111",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQPhEoS5+MV+uhw2XdzUed7RoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "82": {
+        "channelName": "Comedy Central",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch082/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/098.png",
+        "id": 82,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "e81cd3b8154759e7b4508a8409b25a79",
+        "key": "adb9c0aa6d17b447e259421ed4a9d903",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@02cdp0dblm2j5jilphpxafg4u5gxyvohntdjpjca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:54:26.638493",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ6BzTuBVHWee0UIqECbJaeRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "83": {
+        "channelName": "Arirang TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch083/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/Arirang.png",
+        "id": 83,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "ba8fb9c40c475697a6236f92da600b52",
+        "key": "52bdbf2fc2216d5fe865ecb014cec542",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@5231eyq0xptadj3j44g2a1xjqzhp5l25ijl3elba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T08:53:08.787288",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQuo+5xAxHVpemI2+S2mALUhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "84": {
+        "channelName": "Star Bharat",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch084/out/index.mpd",
+        "logo": "https://www.indiantvinfo.com/media/2023/02/Star-Bharat-Serials.png",
+        "id": 84,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "92d277ff49505de48eb88647cab52d5c",
+        "key": "f20e43c39bdac56a5baba55d46202495",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@vrx4kqfu40lbgc25w1ji0p3vadn2v05vc4wukdaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:38:52.380559",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQktJ3/0lQXeSOuIZHyrUtXBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "85": {
+        "channelName": "Sony Set",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch085/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/101.png",
+        "id": 85,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "83d6125acf2f54c5a5e09ed65ac987ee",
+        "key": "94f417915d0a20045ce0845a7536a986",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQg9YSWs8vVMWl4J7WWsmH7hoOdW5pcWNhc3RkaWFsb2c=",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@neabo51faey3pma42iozrac24hdbi3gg0lblomca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:16:53.612505"
+    },
+    "86": {
+        "channelName": "SET Max",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch086/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/102.png",
+        "id": 86,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "ffa6ae26faf85632805be05877cff210",
+        "key": "33e4f2507d00fd878bfb5ee3197f16ba",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@y0h2nlnf5qxnv2eagwhsmpy1wkw4bcgtpvgwnyaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:47:07.579323",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ/6auJvr4VjKAW+BYd8/yEBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "87": {
+        "channelName": "Star Gold",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch087/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/103.png",
+        "id": 87,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "0dab97181c49510caeb207db6d1353c9",
+        "key": "92305b51230489b6289829bb6c2acda2",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@w0s1a1xmlodm5lv0rempmfxbwxvw2lfhbr4rjvba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T14:52:03.785238",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQDauXGBxJUQyusgfbbRNTyRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "88": {
+        "channelName": "Colors",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch088/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/104.png",
+        "id": 88,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "c68c734f7e1651af9dc54ceab0744b89",
+        "key": "9365c3c4dd741649c914908865e5fbbc",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@x5r15noqho5xziev1txngdx51u3p2tskaqqr54da/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T09:48:45.619677",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQxoxzT34WUa+dxUzqsHRLiRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "89": {
+        "channelName": "Star Plus",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch089/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/105.png",
+        "id": 89,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "27e2aa288a60578abcecf2e433720ba9",
+        "key": "a5384280dfdf36ead0ecc63d91957b9b",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQJ+KqKIpgV4q87PLkM3ILqRoOdW5pcWNhc3RkaWFsb2c=",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@2ocorjiijyfgbewyqev0ee2ctixtqgr1lbder0ba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T19:09:29.434901"
+    },
+    "90": {
+        "channelName": "B4U Movies",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch090/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/114.png",
+        "id": 90,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "c709fd42c59554c98a896c04d0293508",
+        "key": "d1ab4fbbd642de71de8e5a170631e86e",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@3omyuo0trbt0zazdjowzeyqj3mxddlikkfas3aaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T05:07:46.556213",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQxwn9QsWVVMmKiWwE0Ck1CBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "91": {
+        "channelName": "Star Gold Romance",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch091/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/113.png",
+        "id": 91,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "4973e418a4b154eab07063c23f18d50f",
+        "key": "aa309d2c199fb1cec5e65beadc9b1a9d",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@tdxem3cl2sqv1txihl5f4ojy032yfmwoewbcmoda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T19:41:29.773584",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQSXPkGKSxVOqwcGPCPxjVDxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "92": {
+        "channelName": "Zee Cinema",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch092/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/112.png",
+        "id": 92,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Hindi"
+        ],
+        "genre": [
+            "Hindi Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "57bb927fe42d55c0992d30daed53ef0d",
+        "key": "0d74259244b8b808c785835026995ff7",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@yjgdt5nbzmm4hyggruoskmgg5doszvbwpckj0rda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T10:17:24.211022",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQV7uSf+QtVcCZLTDa7VPvDRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "93": {
+        "channelName": "Colors Tamil",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch093/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/107.png",
+        "id": 93,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Tamil Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "6ee8f258191752fdb97ff2c9d7c90b8e",
+        "key": "1c67e371bf05028d24c624bad0e0e930",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@wux2gxa34s12clpouv1oqpznorf3f0e2b51wpzca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T12:02:07.681378",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQbujyWBkXUv25f/LJ18kLjhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "94": {
+        "channelName": "Sun TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch094/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/108.png",
+        "id": 94,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Tamil Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "c65301bd55b2599093fe979b6b033e3e",
+        "key": "a31bfa1821dc46c3685e42a22fc56917",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@aip5kqsq33lb0fh4p4zdj44vafa0105nxddvd4aa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:26:20.818936",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQxlMBvVWyWZCT/pebawM+PhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "95": {
+        "channelName": "K TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch095/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/109.png",
+        "id": 95,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Tamil Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "53921ddc330558779607f08a29138e05",
+        "key": "3704d6e6f4c50feaca2d50c1da282305",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@dkwunjrpzswffminynfenmj1s0qsfawtub04ehda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:28:25.354687",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQU5Id3DMFWHeWB/CKKROOBRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "96": {
+        "channelName": "Star Vijay",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch096/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/110.png",
+        "id": 96,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Tamil Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "3f1d733ba0b05c758dcf0191c6afc3ca",
+        "key": "bf38d5aa5db7ca4afb05588ab7cd514a",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@wtlwys33ozclgsjxjxio4xmrft32silvbui1r2da/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:28:50.145100",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQPx1zO6CwXHWNzwGRxq/DyhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "97": {
+        "channelName": "Kalaignar TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch097/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/111.png",
+        "id": 97,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Tamil Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "af9fbdfd61f35eab939504e26285d98e",
+        "key": "0cafecb5f13f5ad280c6b29bf20e8782",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@szbrwxoahe040hulka0hkdcnpvmoizamf4c25zaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:29:08.116375",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQr5+9/WHzXquTlQTiYoXZjhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "98": {
+        "channelName": "Zee Tamil",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch098/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/115.png",
+        "id": 98,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Tamil Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "6c965606b0b958c395e21fb03e34ceec",
+        "key": "d3a2709a6fd0fd475753c0a14d6c47db",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@pwqxb0vnc4gixkqfz1m2vbpduttf2anxyzr3bjaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:29:13.380491",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQbJZWBrC5WMOV4h+wPjTO7BoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "99": {
+        "channelName": "Sirippoli TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch099/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/116.png",
+        "id": 99,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Tamil Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "61eb737e217c54b1b2759595f1c708a6",
+        "key": "dd7ac21be96673beb05b0a4ebfab3f19",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@hrhuybnw4qchet1ljhbm1pird0j2bitrqersysaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:29:34.344828",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQYetzfiF8VLGydZWV8ccIphoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "100": {
+        "channelName": "Guru TV",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch100/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/022.png",
+        "id": 100,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "1768c8d60f065ea6825bfcdaf1b32ef9",
+        "key": "9632c0deea8a9a625a1f769398aafa52",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@xvhfknsr4uivj31f3lonspku0un3j2xka0gpk4da/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-05T20:59:09.572105",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQF2jI1g8GXqaCW/za8bMu+RoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "101": {
+        "channelName": "Nenasa Sinhala Grade 1-5",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch101/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/22-Nenasa-Sinhala.png",
+        "id": 101,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "3d6573bc2ff75da9977cb7f8fe75d6ce",
+        "key": "a2bc9628aa5284e4664560bdaedd32b6",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@0hcvqhowiuc4yg2k4poxwekbpu4riibinmo5zjaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-09T13:55:05.225099",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQPWVzvC/3XamXfLf4/nXWzhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "102": {
+        "channelName": "Nenasa Tamil Grade 1-5",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch102/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/22-Nenasa-Sinhala.png",
+        "id": 102,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "6b72e21202df96599bb2fc91c9cad3f3",
+        "key": "2c43f04d5b0a582bc64033ee7a520565"
+    },
+    "103": {
+        "channelName": "Nenasa Sinhala Grade 6-9",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch103/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/22-Nenasa-Sinhala.png",
+        "id": 103,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "a3fd8073fe9f0af9845efd2c80747590",
+        "key": "d784cb6bba8a130c303783fe93381f6b"
+    },
+    "104": {
+        "channelName": "Nenasa Tamil Grade 6-9",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch104/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/23-Nenasa-Tamil-OL.png",
+        "id": 104,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "763e3aa9e0dc5b62b3c6d0a3815db48f",
+        "key": "a2f8bbf49b90b6ef936321134bfba30f",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@0qz0c1crgllm1obs45fxytvfwvgmw1fpnx0xlvaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-05T11:27:06.608209",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQdj46qeDcW2KzxtCjgV20jxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "105": {
+        "channelName": "Nenasa Sinhala O/L",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch105/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/22-Nenasa-Sinhala.png",
+        "id": 105,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "d82b0ea4bd0ba68b82a10e0cc955ba9f",
+        "key": "9e9db2517d99d3c00c2653c5d41ae6da",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@coplvtfx3nvowjhe2kugf4wkhtq11havv1znvaaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-09T09:38:06.897978"
+    },
+    "106": {
+        "channelName": "Nenasa Tamil O/L",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch106/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/NANASA10.png",
+        "id": 106,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "60a840dc7ea75ee88cef54b3bfe6d7c4",
+        "key": "2a33a7aa3d9bac2c1301cb2394efc522",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@vdtkatq1mkbmc2vhygdi4gvagj3yupf3ceqhj3ca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T05:34:02.771412",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQYKhA3H6nXuiM71Szv+bXxBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "107": {
+        "channelName": "Nenasa Sinhala A/L",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch107/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/NANASA10.png",
+        "id": 107,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Sinhala"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "0995b5bb85c0e81480aa698e2cf7e019",
+        "key": "6500dfee09ba52224c95d16240d51476"
+    },
+    "108": {
+        "channelName": "Nenasa Tamil A/L",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch108/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/NANASA10.png",
+        "id": 108,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "Tamil"
+        ],
+        "genre": [
+            "Educational"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "5daa0e00f2505f5185cb80766cd54d6d",
+        "key": "fe8cf90cbf37d6d7196952e12906d79d",
+        "global_mpd": "https://bpcdncs3.dialog.lk:443/bpk-token/2ab@3ef0gcwdui1iyxx2qvlzqkunemhjr1mjkpjqpmaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-07T05:34:35.669428",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQXaoOAPJQX1GFy4B2bNVNbRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "109": {
+        "channelName": "Discovery HD World",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch109/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/125.png",
+        "id": 109,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "b2443c311d425398b35b2291ebd77a9b",
+        "key": "fdeca1aec1e5fd2d6561200d5ae0e39f",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@s3om4b3e1rzhujtxojagc3y2d0mxd4srfspg4saa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T21:02:05.503729",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQskQ8MR1CU5izWyKR69d6mxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "110": {
+        "channelName": "Animal Planet HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch110/out/index.mpd",
+        "logo": "https://dialogselfcare.s3.ap-southeast-1.amazonaws.com/dialogdigitizationservices/productcatalogue/dtv/4/127-Animal-Planet-HD.png",
+        "id": 110,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Edutainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "c5b1eb4a36d05def942d4092867951e3",
+        "key": "9f1330bfe2f11f491e42e3586e7c7c68",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@ey1z2ufhphttwb0z0rrkjxtzjdb4ol0utnn52haa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-08T05:19:06.963339",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQxbHrSjbQXe+ULUCShnlR4xoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "111": {
+        "channelName": "AXN HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch111/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/128.png",
+        "id": 111,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "0d7da244bdaf5b6aa599a71f30e83a33",
+        "key": "7532b2d4520dfcfbaca718096c22d094",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@lc4b2oepyhq1rwnt4ovu32dy3qsqpnk02n5l23ba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:53:58.523195",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQDX2iRL2vW2qlmacfMOg6MxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "112": {
+        "channelName": "Rock Entertainment HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch112/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/095.png",
+        "id": 112,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "623e45b01a935650b6b705c9303ab4d9",
+        "key": "a736229342cde644963d3160da3267e5",
+        "global_mpd": "https://bpcdncs2.dialog.lk:443/bpk-token/2aa@ecpux42p2r40dihcct4k34ip3jrydqi4tno4xnba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T17:07:34.298877",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQYj5FsBqTVlC2twXJMDq02RoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "113": {
+        "channelName": "Hits NOW",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch113/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/HitsNow.png",
+        "id": 113,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Entertainment"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "0d7d10ef9f3756f8976b991ae312d9e7",
+        "key": "726849ccba68fb7025ad4955bc4f072d",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@exeijtqnsafns3ammmykxjqsgbzfbhh3tqhfa3ca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T17:07:51.972505",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQDX0Q7583VviXa5ka4xLZ5xoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "114": {
+        "channelName": "HBO HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch114/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/080.png",
+        "id": 114,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "07f69790238052ec8d554761a2d909b1",
+        "key": "0c8c7269230f224c5b3131bfa1f77279",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@rtawgvehcy0ustsaei1a4bmnkj2eqyu2ggwqggba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:42:25.958641",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQB/aXkCOAUuyNVUdhotkJsRoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "115": {
+        "channelName": "Star Movies HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch115/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/079.png",
+        "id": 115,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "eda47488baa0545da6d4a3d2cfeb679c",
+        "key": "c15aa73c0b2b4f7b5a882a027d9089b7",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@s1kzncellfxjqbn3lyqgovs1eq2wkdozfo25nrba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:36:16.385297",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ7aR0iLqgVF2m1KPSz+tnnBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "116": {
+        "channelName": "Cinema World HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch116/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/087.png",
+        "id": 116,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "7314e1052dcb5cdfb66d46a15c18fac3",
+        "key": "8d3c8201638bbc929e2331a65aaa8671",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@cysjzlxzlgfp3kbdmyfhjftsxwawmhddv5reqfba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-11T10:50:44.769093",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQcxThBS3LXN+2bUahXBj6wxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "117": {
+        "channelName": "CineMax HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch117/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/084.png",
+        "id": 117,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "841c340df9a05db2b5d00de88f7ab31e",
+        "key": "d0c97313b0b9725efbde333b10e400de",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@fyvgihkpx0a3iim4uksjjlnqombovmhis5wlbjaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:36:41.948140",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQhBw0DfmgXbK10A3oj3qzHhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "118": {
+        "channelName": "HBO Hits HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch118/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/082.png",
+        "id": 118,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "4f821920e16c530b955b78cb77c28c2e",
+        "key": "c4874574e343e05c69a12fcac880ac42",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@vldma5x5nqb2pdy4roojogya4p30aofgcmabjrba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:37:04.376389",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQT4IZIOFsUwuVW3jLd8KMLhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "119": {
+        "channelName": "Star Movies Select HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch119/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/126.png",
+        "id": 119,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Movies"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "37d600c85bf35cb8956c6ea362e68124",
+        "key": "77ea0df0fbc4045bb012a92a76ad27f0",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@0g5cqquu2lacspfjywzwu4fabrwzxnz3nb2pz4ca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:38:24.732573",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQN9YAyFvzXLiVbG6jYuaBJBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "120": {
+        "channelName": "Star Sports HD 1",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch120/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/130.png",
+        "id": 120,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "712d8e57eed05daa8b7565714fd0978c",
+        "key": "ae71f9e1fb94cec71841ce71be177c7c",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@4gzxzolve5g1ne5znug5uspt3wxj4alcjtprz3ca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T17:05:22.583705",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQcS2OV+7QXaqLdWVxT9CXjBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "121": {
+        "channelName": "Star S Select HD 1",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch121/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/133.png",
+        "id": 121,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "68b182f1158450fc91a0e5d621a593a4",
+        "key": "31fffcb21af0767d0331358b4c662639",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@4q5g0pqm41i5bbkf0bw4y5nu5qh2x2d0jx2ltbca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T19:28:38.701506",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQaLGC8RWEUPyRoOXWIaWTpBoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "122": {
+        "channelName": "Star S Select HD 2",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch122/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/132.png",
+        "id": 122,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "15f48f8a585e5af49344b648d5f1d0ef",
+        "key": "0db2e72087f5585de002ad0bae1d6f52",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@0w1qowatod0zsirh20gwuxb3mrw3gzo2nry3hyca/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-09T17:24:11.881786",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQFfSPilheWvSTRLZI1fHQ7xoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "123": {
+        "channelName": "Sony sports 2 HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch123/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_sports_2_HD.jpeg",
+        "id": 123,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "cddd57f8325053419212bf2e8a4edb77",
+        "key": "1f35b9d57933abf71810c78b7c6b708f",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@04nxy21wx3ctpi0v0wpxe1orzxwp1i1gnzo0rsba/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T18:09:44.676903",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQzd1X+DJQU0GSEr8uik7bdxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "124": {
+        "channelName": "Sony sports 5 HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch124/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/sony_sports_5.jpeg",
+        "id": 124,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "e3755879e05d5923a53bc85870a31a9f",
+        "key": "4f50e08926c4d401e8f3fb4f3b7621a2",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@e5rfs5cphwi4lzxa1e4lhdle5fzpm2botkhdsmda/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:04:03.579848",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQ43VYeeBdWSOlO8hYcKManxoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "125": {
+        "channelName": "Premier Sports HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch125/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/129_PRE.png",
+        "id": 125,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "0f24321a44365b6997ea484fbbc5df92",
+        "key": "d97fc65d67701924ea668c58b9ef804b",
+        "global_mpd": "https://bpcdncs1.dialog.lk:443/bpk-token/2aa@jzzcjdnrhlenemkdijaqltfsgkkowfhr4mpejqaa/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T20:03:46.115802",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQDyQyGkQ2W2mX6khPu8XfkhoOdW5pcWNhc3RkaWFsb2c="
+    },
+    "126": {
+        "channelName": "ThePapare TV HD",
+        "dashWidewinePlayUrl": "https://bpcdn.dialog.lk/bpk-tv/Ch126/out/index.mpd",
+        "logo": "https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/PAPARESD.png",
+        "id": 126,
+        "dashWidewineLicenseUrl": "Unknown",
+        "audio": [
+            "English"
+        ],
+        "genre": [
+            "Sports"
+        ],
+        "HD": true,
+        "provider": "DTV",
+        "bid": "Unknown",
+        "entitlements": [
+            "Unknown"
+        ],
+        "keyid": "c48ae6f5e3595dd182d9033de3724efe",
+        "key": "829ddcd04dabe67fa874c6189ad96566",
+        "global_mpd": "https://bpcdncs4.dialog.lk:443/bpk-token/2ab@z5ed5gjrtm21uxo40pbqgjg4nk4hzvkqoyhowida/GlobalManifest.mpd",
+        "mpd_exp": "2024-08-12T21:33:12.514047",
+        "pssh": "AAAARHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACQIARIQxIrm9eNZXdGC2QM943JO/hoOdW5pcWNhc3RkaWFsb2c="
+    }
+}
